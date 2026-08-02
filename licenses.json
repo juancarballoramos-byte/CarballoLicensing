@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-08-02T21:51:00+00:00",
+  "license_count": 2,
+  "licenses": {
+    "1e2ab915b058ed521cb68916fa02b5ca5e6e202090612ebee83239faf7e51351": {
+      "expires": "2027-07-29",
+      "status": "active"
+    },
+    "b755621b8edb2fba9cb42fd5991d3cf233cacfe297ff6420f641eb9b2c67972b": {
+      "expires": "2027-08-02",
+      "status": "active"
+    }
+  },
+  "schema": 1,
+  "source_table": "licenses"
+}
