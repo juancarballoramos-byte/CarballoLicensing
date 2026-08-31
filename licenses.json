@@ -1,85 +1,24 @@
 {
-  "licenses": [
-    {
-      "format": "CarballoStudio-License",
-      "format_version": 1,
-      "algorithm": "Ed25519",
-      "issued_at": "2026-07-29T19:52:17+00:00",
-      "payload": {
-        "license_id": "CS-2026-000001",
-        "product": "CarballoStudio",
-        "customer": {
-          "name": "Juan Carballo",
-          "tax_id": "76417793V",
-          "email": "juan.carballo.ramos@gmail.com"
-        },
-        "edition": "Basic",
-        "modules": [
-          "CarballoCAD",
-          "CarballoNest",
-          "CarballoScan",
-          "CarballoExport",
-          "CarballoFold"
-        ],
-        "expires_at": "2027-07-29",
-        "max_activations": 4,
-        "status": "ACTIVA"
-      },
-      "signature": "nwYdFPVl42V0yXj4nT+yuJISHgSInosdPJHutXI3AO4VrLWo+Y6dXBu6amstfG4XIJfZtf6wgUaFQ258vEVOBA=="
+  "generated_at": "2026-08-31T14:38:58+00:00",
+  "license_count": 4,
+  "licenses": {
+    "0089c3fe68025f1696244cd48ce30c414df9121c1652f16c88d1dbab16c12787": {
+      "expires": "2027-08-06",
+      "status": "active"
     },
-    {
-      "format": "CarballoStudio-License",
-      "format_version": 1,
-      "algorithm": "Ed25519",
-      "issued_at": "2026-08-02T21:51:24+00:00",
-      "payload": {
-        "license_id": "CS-2026-000002",
-        "product": "CarballoStudio",
-        "customer": {
-          "name": "Cliente Test",
-          "tax_id": "00000000x",
-          "email": "wololotinternet@gmail.com"
-        },
-        "edition": "Basic",
-        "modules": [
-          "CarballoCAD",
-          "CarballoNest",
-          "CarballoScan",
-          "CarballoExport",
-          "CarballoFold"
-        ],
-        "expires_at": "2027-08-02",
-        "max_activations": 2,
-        "status": "ACTIVA"
-      },
-      "signature": "Iv2pPSf+dnSnUnZAApKNtFAcFlHc1WdWDTWUYTupTwHrxkZ/e5UwCgjk+Oj0IbV5rpbNhxSy9u2y3u0bU1M9BA=="
+    "17e515f37c642fea48faf4674739657ac610ed52aed3c8bbe717413a7087b35e": {
+      "expires": "2027-08-04",
+      "status": "active"
     },
-    {
-      "format": "CarballoStudio-License",
-      "format_version": 1,
-      "algorithm": "Ed25519",
-      "issued_at": "2026-08-04T19:09:11+00:00",
-      "payload": {
-        "license_id": "CS-2026-000003",
-        "product": "CarballoStudio",
-        "customer": {
-          "name": "Don Sesar",
-          "tax_id": "0000000000",
-          "email": "macanimacion@gmail.com"
-        },
-        "edition": "Basic",
-        "modules": [
-          "CarballoCAD",
-          "CarballoNest",
-          "CarballoScan",
-          "CarballoExport",
-          "CarballoFold"
-        ],
-        "expires_at": "2027-08-04",
-        "max_activations": 2,
-        "status": "ACTIVA"
-      },
-      "signature": "GVdNyATWyZMLF5E+AKn3yuZn6qV0pIh+selfNl9OpNpXvSI3jKcMZJ42VCsU/KUiAEotiHczciHgtWON7N/GCQ=="
+    "27f0c910381f3b4fde1b6fb7d1414e517780f75c7703aaeabf68ebef8a28d6e6": {
+      "expires": "2027-08-31",
+      "status": "active"
+    },
+    "b755621b8edb2fba9cb42fd5991d3cf233cacfe297ff6420f641eb9b2c67972b": {
+      "expires": "2027-08-02",
+      "status": "active"
     }
-  ]
+  },
+  "schema": 1,
+  "source_table": "licenses"
 }
