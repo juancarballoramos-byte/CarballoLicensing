@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:36:18+00:00",
+  "generated_at": "2026-11-05T16:59:08+00:00",
   "license_count": 1,
   "licenses": {
     "1e2ab915b058ed521cb68916fa02b5ca5e6e202090612ebee83239faf7e51351": {
@@ -8,8 +8,7 @@
         "CarballoCAD",
         "CarballoNest",
         "CarballoScan",
-        "CarballoExport",
-        "CarballoFold"
+        "CarballoExport"
       ],
       "status": "active"
     }
