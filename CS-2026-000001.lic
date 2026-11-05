@@ -1,0 +1,27 @@
+{
+  "format": "CarballoStudio-License",
+  "format_version": 1,
+  "algorithm": "Ed25519",
+  "issued_at": "2026-11-05T15:03:42+00:00",
+  "payload": {
+    "license_id": "CS-2026-000001",
+    "product": "CarballoStudio",
+    "customer": {
+      "name": "Juan Carballo",
+      "tax_id": "76417793V",
+      "email": "juan.carballo.ramos@gmail.com"
+    },
+    "edition": "Enterprise",
+    "modules": [
+      "CarballoCAD",
+      "CarballoNest",
+      "CarballoScan",
+      "CarballoExport",
+      "CarballoFold"
+    ],
+    "expires_at": "2027-11-05",
+    "max_activations": 1,
+    "status": "ACTIVA"
+  },
+  "signature": "XA4aIavnZJn774M6pPA0hhdcECHZjfqOxoISiq17jts0/oh0K8qGBt0le6yVdgwEHoJ7120UVZtC2tka0+kGDw=="
+}
