@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-09-30T08:27:58+00:00",
-  "license_count": 5,
-  "licenses": {
-    "0089c3fe68025f1696244cd48ce30c414df9121c1652f16c88d1dbab16c12787": {
-      "expires": "2027-08-06",
-      "status": "active"
-    },
-    "06977252932dc8abd9c2f0480de0bbe0f86de7cc2a5c312e4489bb37f311d644": {
-      "expires": "2027-09-30",
-      "status": "active"
-    },
-    "17e515f37c642fea48faf4674739657ac610ed52aed3c8bbe717413a7087b35e": {
-      "expires": "2027-08-04",
-      "status": "active"
-    },
-    "27f0c910381f3b4fde1b6fb7d1414e517780f75c7703aaeabf68ebef8a28d6e6": {
-      "expires": "2027-08-31",
-      "status": "active"
-    },
-    "b755621b8edb2fba9cb42fd5991d3cf233cacfe297ff6420f641eb9b2c67972b": {
-      "expires": "2027-08-02",
-      "status": "active"
-    }
-  },
+  "generated_at": "2026-11-05T15:01:55+00:00",
+  "license_count": 0,
+  "licenses": {},
   "schema": 1,
   "source_table": "licenses"
 }
